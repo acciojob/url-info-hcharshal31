@@ -1,2 +1,2 @@
 let urlLength = window.location.toString().length;
-alert(urlLength);
+alert(`The length of the URL is: ${urlLength}`);
