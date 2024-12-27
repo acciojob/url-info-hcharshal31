@@ -1,1 +1,2 @@
-//your JS code here. If required.
+let urlLength = window.location.toString().length;
+alert(urlLength);
